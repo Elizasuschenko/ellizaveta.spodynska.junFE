@@ -20,6 +20,10 @@ body{
 	width: 1150px;
 	margin: 0 auto;
 }
+input[type="submit"], .currency-item, .give-pic{
+	cursor: pointer;
+
+}
 .header{
 	position: fixed;
 	width: 100%;
